@@ -69,10 +69,10 @@
 
         FUNCTION {
             bindings = <
-&kp ESCAPE        &kp EXCLAMATION  &kp AT  &kp HASH      &kp DOLLAR                                     &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE
-&kp LEFT_CONTROL  &trans           &trans  &trans        &trans          &trans         &kp MINUS       &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp BACKSLASH          &kp TILDE
-&trans            &trans           &trans  &trans        &trans          &trans         &kp UNDERSCORE  &kp PLUS       &kp LEFT_BRACE    &kp RIGHT_BRACE       &kp PIPE               &kp F11
-&trans            &trans           &trans  &kp LEFT_WIN  &kp DOWN_ARROW  &kp SPACE      &kp ENTER       &mo 3                                                                         &kp F12
+&kp ESCAPE        &kp EXCLAMATION  &kp AT        &kp HASH      &kp DOLLAR                                        &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE
+&kp LEFT_CONTROL  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4    &kp NUMBER_5      &kp MINUS       &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp BACKSLASH          &kp TILDE
+&kp LEFT_SHIFT    &kp NUMBER_6     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9    &kp NUMBER_0      &kp UNDERSCORE  &kp PLUS       &kp LEFT_BRACE    &kp RIGHT_BRACE       &kp PIPE               &kp F11
+&trans            &trans           &trans        &kp LEFT_WIN  &kp DOWN_ARROW  &kp SPACE         &kp ENTER       &mo 3                                                                         &kp F12
             >;
         };
 
